@@ -1,4 +1,4 @@
-local API_URL = "https://example.com/vybe-api.lua"
+local API_URL = "https://raw.githubusercontent.com/Kyattou/UF-API/refs/heads/main/Main-API.luau"
 
 local function fetch(url)
 	if type(game.HttpGet) == "function" then
